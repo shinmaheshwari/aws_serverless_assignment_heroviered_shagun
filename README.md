@@ -74,6 +74,8 @@ Tags Applied to EC2 Instance
 
 For detailed step-by-step instructions, screenshots, and implementation details, refer to: [`assignment5-auto-tagging-ec2/README.md`](assignment5-auto-tagging-ec2/README.md)
 
+> **📸 Note**: Screenshots for this assignment are located in [`assignment5-auto-tagging-ec2/screenshots/`](assignment5-auto-tagging-ec2/screenshots/)
+
 ---
 
 ## Assignment 17: Restore EC2 Instance from Snapshot
@@ -147,6 +149,8 @@ New EC2 Instance Created: i-yyyyyyyy
 ### Documentation
 
 For detailed step-by-step instructions, screenshots, and implementation details, refer to: [`assignment17-ec2-restore-from-snapshot/README.md`](assignment17-ec2-restore-from-snapshot/README.md)
+
+> **📸 Note**: Screenshots for this assignment are located in [`assignment17-ec2-restore-from-snapshot/screenshots/`](assignment17-ec2-restore-from-snapshot/screenshots/)
 
 ---
 
@@ -224,6 +228,8 @@ CloudWatch Logs Generated
 
 For detailed step-by-step instructions, screenshots, and implementation details, refer to: [`assignment18-autoSave-ec2-state/README.md`](assignment18-autoSave-ec2-state/README.md)
 
+> **📸 Note**: Screenshots for this assignment are located in [`assignment18-autoSave-ec2-state/screenshots/`](assignment18-autoSave-ec2-state/screenshots/)
+
 ---
 
 ## Assignment 19: Load Balancer Health Check
@@ -264,6 +270,8 @@ Implement automated health checks for load-balanced EC2 instances using AWS Lamb
 ### Documentation
 
 For detailed step-by-step instructions and implementation details, refer to: [`assignment19-LB-Health-check/README.md`](assignment19-LB-Health-check/README.md)
+
+> **📸 Note**: Screenshots for this assignment are located in [`assignment19-LB-Health-check/screenshots/`](assignment19-LB-Health-check/screenshots/)
 
 ---
 
